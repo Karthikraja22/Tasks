@@ -1,0 +1,29 @@
+.container{
+    margin: auto;
+    width: 80%;
+    margin-top:50px;
+    border: 2px solid black;
+    padding: 10px;
+}
+.row{
+    display: flex;
+}
+.col-1{
+    width: 50%;
+
+}
+.col-2{
+width: 50%;
+}
+.btn{
+    color: black;
+    background-color: white;
+    border-color: 1px solid black;
+    padding: 10px 10px;
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(44, 241, 44);
+    cursor: pointer;
+
+}

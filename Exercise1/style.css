@@ -1,0 +1,31 @@
+.container
+{
+margin: auto;
+margin-top:20px;
+width: 60%;
+border: 2px solid black;
+padding: 20px;
+}
+.row
+{
+    display: flex;
+   
+}
+.col-1{
+    width: 50%;
+    
+}
+.col-2{
+    width:50%;
+    margin-top:60px;
+    }
+.btn{
+    color: black;
+    background-color: white;
+    border:2px solid black;
+}
+.btn:hover{
+    color: white;
+    background-color: green;
+    cursor: pointer;
+}
